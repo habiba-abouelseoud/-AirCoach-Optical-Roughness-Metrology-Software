@@ -1,4 +1,4 @@
-# -AirCoach-Optical-Roughness-Metrology-Software
+# AirCoach-Optical-Roughness-Metrology-Software
 
 
 This repository contains the source code and documentation for the AirCoach Optical Roughness Metrology Software. This software is designed to work seamlessly with AirCoach's optical roughness metrology device, providing a user-friendly interface and essential functionalities for analyzing and visualizing measurements.
