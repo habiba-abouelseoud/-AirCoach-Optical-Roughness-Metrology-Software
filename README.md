@@ -48,8 +48,3 @@ The core of the software is the Graphical User Interface (GUI) application, deve
 2. Open the project in NetBeans.
 3. Run the main class of the GUI application.
 
-## Report
-
-Refer to the [report](path/to/report.pdf) for detailed information on each task, evidence of functionality, and adherence to good programming practices.
-
-
